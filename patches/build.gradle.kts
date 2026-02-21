@@ -2,12 +2,12 @@ group = "app.morphe"
 
 patches {
     about {
-        name = "XYZ Patches for use with Morphe"
-        description = "Example patches"
-        source = "git@github.com:MorpheApp/morphe-patches-template.git"
-        author = "Awesome dev"
+        name = "sn"
+        description = "Standard Notes patches"
+        source = "git@github.com:monpaf/sn.git"
+        author = "monpaf"
         contact = "na"
-        website = "https://morphe.software"
+        website = "https://github.com/monpaf/sn"
         license = "GPLv3"
     }
 }
