@@ -1,7 +1,7 @@
 {
-  "created_at": "",
-  "description": "",
-  "download_url": "",
-  "signature_download_url": "",
-  "version": ""
+  "created_at": "2026-02-21T23:39:50",
+  "description": "# 1.0.0-dev.1 (2026-02-21)\n\n\n### Features\n\n* add unlock pro, icon, package name patches for standard notes ([ddd9822](https://github.com/monpaf/sn/commit/ddd9822a1b265a7c883e7c955bd0062acce8456f))",
+  "download_url": "https://github.com/monpaf/sn/releases/download/v1.0.0-dev.1/patches-1.0.0-dev.1.mpp",
+  "signature_download_url": "https://github.com/monpaf/sn/releases/download/v1.0.0-dev.1/patches-1.0.0-dev.1.mpp.asc",
+  "version": "1.0.0-dev.1"
 }
